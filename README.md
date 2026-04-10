@@ -1,0 +1,1 @@
+python run_qlib_forecast.py --code CU
