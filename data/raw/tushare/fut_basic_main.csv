@@ -1,0 +1,11 @@
+﻿ts_code,symbol,exchange,name,fut_code,multiplier,trade_unit,per_unit,quote_unit,quote_unit_desc,d_mode_desc,list_date,delist_date,d_month,last_ddate
+CU.SHF,CU,SHFE,沪铜主力,CU,,,,,,,,,,
+CUL.SHF,CUL,SHFE,沪铜连续,CU,,,,,,,,,,
+AUL.SHF,AUL,SHFE,沪金连续,AU,,,,,,,,,,
+AU.SHF,AU,SHFE,黄金主力,AU,,,,,,,,,,
+SC.INE,SC,INE,原油主力,SC,,,,,,,,,,
+SCL.INE,SCL,INE,原油连续,SC,,,,,,,,,,
+RB.SHF,RB,SHFE,螺纹钢主力,RB,,,,,,,,,,
+RBL.SHF,RBL,SHFE,螺纹钢连续,RB,,,,,,,,,,
+C.DCE,C,DCE,玉米主力,C,,,,,,,,,,
+CL.DCE,CL,DCE,玉米连续,C,,,,,,,,,,
